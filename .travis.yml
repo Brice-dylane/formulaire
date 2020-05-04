@@ -15,6 +15,3 @@ deploy:
   keep_history: true
   on:
     branch: master
-
-notifications:
-  email: bricenemadjeu@gmail.com
